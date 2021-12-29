@@ -52,8 +52,7 @@ Print lines matching a pattern
 git-gui[1]
 A portable graphical interface to Git
 
-git-init[1]
-Create an empty Git repository or reinitialize an existing one
+git-init[1] -->Create an empty Git repository or reinitialize an existing one
 
 gitk[1]
 The Git repository browser
