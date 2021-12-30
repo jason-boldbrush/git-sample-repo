@@ -104,21 +104,3 @@ Show various types of objects
 
 git-sparse-checkout[1]
 Initialize and modify the sparse-checkout
-
-git-stash[1]
-Stash the changes in a dirty working directory away
-
-git-status[1]
-Show the working tree status
-
-git-submodule[1]
-Initialize, update or inspect submodules
-
-git-switch[1]
-Switch branches
-
-git-tag[1]
-Create, list, delete or verify a tag object signed with GPG
-
-git-worktree[1]
-Manage multiple working trees
